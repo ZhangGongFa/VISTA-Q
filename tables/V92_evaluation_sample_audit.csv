@@ -1,0 +1,5 @@
+﻿period,horizon,n_forecasts,n_complete_case,n_unscored,n_dates,n_tickers,min_date,max_date,first_scored_date,last_scored_date,n_forecast_dates,n_missing_target,n_invalid_model_prediction,status
+development_2023_2025,5,20841,20759,82,747,43,2023-01-03,2025-12-31,2023-01-03,2025-12-31,747,82,0,evaluated
+development_2023_2025,20,20841,20504,337,747,43,2023-01-03,2025-12-31,2023-01-03,2025-12-31,747,337,0,evaluated
+chronological_2026,5,5250,5100,150,170,30,2026-01-05,2026-09-21,2026-01-05,2026-09-14,175,150,0,evaluated
+chronological_2026,20,5250,4650,600,155,30,2026-01-05,2026-09-21,2026-01-05,2026-08-19,175,600,0,evaluated

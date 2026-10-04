@@ -1,0 +1,506 @@
+{
+  "report_date": "2026-10-04",
+  "scope": "report_and_offline_html_presentation_no_new_training",
+  "passed_automated_checks": 72,
+  "checks": [
+    {
+      "check": "source_sha256:point",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:point",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:point",
+      "passed": true,
+      "detail": 240
+    },
+    {
+      "check": "source_sha256:hac",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:hac",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:hac",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "source_sha256:interval",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:interval",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:interval",
+      "passed": true,
+      "detail": 48
+    },
+    {
+      "check": "source_sha256:interval_paired",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:interval_paired",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:interval_paired",
+      "passed": true,
+      "detail": 16
+    },
+    {
+      "check": "source_sha256:sample",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:sample",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:sample",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "check": "source_sha256:topk",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:topk",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:topk",
+      "passed": true,
+      "detail": 96
+    },
+    {
+      "check": "source_sha256:classifier",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:classifier",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:classifier",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "check": "source_sha256:reliability",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:reliability",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:reliability",
+      "passed": true,
+      "detail": 40
+    },
+    {
+      "check": "source_sha256:probability_audit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:probability_audit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:probability_audit",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "check": "source_sha256:availability",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:availability",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:availability",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "source_sha256:outcomes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:outcomes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:outcomes",
+      "passed": true,
+      "detail": 22
+    },
+    {
+      "check": "source_sha256:portfolio",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:portfolio",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:portfolio",
+      "passed": true,
+      "detail": 64
+    },
+    {
+      "check": "source_sha256:inference",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "byte_exact_csv:inference",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_rows:inference",
+      "passed": true,
+      "detail": 192
+    },
+    {
+      "check": "source_sha256:gate",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_json:gate",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_sha256:foundation_protocol",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_json:foundation_protocol",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_sha256:portfolio_protocol",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_json:portfolio_protocol",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_sha256:snapshot",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_json:snapshot",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_sha256:curves",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "embedded_json:curves",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "html_embedded_json_matches_source",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "html_static_ids_unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "html_has_no_external_resource_dependencies",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "html_pdf_relative_link",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "html_single_application_script",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "javascript_syntax",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "javascript_no_network_fetch",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "report_has_18_chapters",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pdf_has_18_pages",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pdf_all_pages_have_text",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pdf_vietnamese_text_extractable",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pdf_no_replacement_or_square_glyphs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "pdf_all_text_within_page",
+      "passed": true,
+      "detail": [
+        {
+          "page": 1,
+          "left": 57.6,
+          "right": 554.8999871000002,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 2,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 3,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 4,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 5,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 6,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 7,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 8,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 9,
+          "left": 57.6,
+          "right": 554.3999574000001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 10,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 11,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 12,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 13,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 14,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 15,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 16,
+          "left": 57.6,
+          "right": 554.8999781,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 17,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        },
+        {
+          "page": 18,
+          "left": 57.6,
+          "right": 554.3999519500001,
+          "top": 19.288818200000037,
+          "bottom": 767.7888182
+        }
+      ]
+    },
+    {
+      "check": "64_portfolio_configurations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "922_curve_dates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "curve_dates_sorted_unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "curve_vectors_match_dates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "portfolio_configurations_unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "60_latest_requests",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "latest_request_keys_unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "readiness_gates_remain_disabled",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "13_source_csvs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_unverified_docx_delivered",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "visual_qa": {
+    "pdf": "All 18 pages inspected as rendered PNGs; pages 15 and 16 re-rendered and rechecked after scientific notation glyph repair.",
+    "desktop_browser": "Local HTTP preview: period/horizon/regime filters, snapshot ticker search and SHAP detail, dataset search/filter, and 18 expandable chapters verified.",
+    "mobile_browser": "390 x 844 viewport: chart/table layout inspected, no body horizontal overflow; viewport reset.",
+    "console": "No error or warning messages in checked browser session.",
+    "screenshot": "website-preview.jpg"
+  },
+  "verification_limits": [
+    "Direct file:// navigation cannot be tested by the in-app browser URL policy; offline suitability checked from self-contained HTML with zero external resource dependencies and no network calls.",
+    "Browser download completion and operating-system print dialog were not verified; the source CSVs and rendered PDF are supplied directly.",
+    "Native Word pagination unavailable: bundled LibreOffice executable missing and Word automation could not start. Unverified DOCX excluded."
+  ]
+}

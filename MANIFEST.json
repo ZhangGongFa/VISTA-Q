@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "report_date": "2026-10-04",
+  "scope": "report_and_offline_html_presentation_no_new_training",
+  "files": [
+    {
+      "path": "Bao-cao-danh-gia-tong-the-VISTA-Q.md",
+      "bytes": 36468,
+      "sha256": "164b228801ff7a7e486a392bda4d79696c1af45d38e732c9288727e3ced80247"
+    },
+    {
+      "path": "Bao-cao-danh-gia-tong-the-VISTA-Q.pdf",
+      "bytes": 164724,
+      "sha256": "7266649d3ddef703ca31dfdb5a14ef592d1406b3e4109bd60e58e793c3e81d4b"
+    },
+    {
+      "path": "evidence_data.json",
+      "bytes": 2480010,
+      "sha256": "1288233608678c9bca44307c6b73d1ada393b55077d98d2da04ba0363ce8f31a"
+    },
+    {
+      "path": "HUONG-DAN.md",
+      "bytes": 1748,
+      "sha256": "44fc2e8441777ea2f9287191d05f90aac0a5a53a6ca790ae413009af282b46c9"
+    },
+    {
+      "path": "tables/V92_classifier_metrics.csv",
+      "bytes": 678,
+      "sha256": "5db6da9986e44bd6ad99a80b77fd75bba951f3637903bc1aed4b72f76fa93ea2"
+    },
+    {
+      "path": "tables/V92_dss_topk_cost.csv",
+      "bytes": 34628,
+      "sha256": "b527c59bf00a1a2231480a3734198b1a201d61664d77cee1782dcf07180d7977"
+    },
+    {
+      "path": "tables/V92_evaluation_sample_audit.csv",
+      "bytes": 630,
+      "sha256": "bca8a6f6fb6b29a7d025d28d8650406594de9fa5cecbc4a08f2058e5deb4b2ac"
+    },
+    {
+      "path": "tables/V92_interval_metrics.csv",
+      "bytes": 14212,
+      "sha256": "1ed3425f1aad9f836b40a11d119d530f4b16096640be405b61c6e84fdc1eaf20"
+    },
+    {
+      "path": "tables/V92_interval_paired_comparison.csv",
+      "bytes": 3342,
+      "sha256": "dc996e17ec9494157b5a5adf4e8467c68793fece388e921a6010766dbd4f732f"
+    },
+    {
+      "path": "tables/V92_PIT_forecast_coverage.csv",
+      "bytes": 1286,
+      "sha256": "74026dd9873e178fec1ae15d8738206caea314f5b229908af84b28455f098a6d"
+    },
+    {
+      "path": "tables/V92_point_metrics.csv",
+      "bytes": 31817,
+      "sha256": "f82ad5bfbe25f10edc3eca0cfb5a5cc8627a55d8b4bf19732823f5ee2575c859"
+    },
+    {
+      "path": "tables/V92_primary_hac_tests.csv",
+      "bytes": 3159,
+      "sha256": "f71efcbdd2bfcff4338b99f6f4b4519f9a44d902eb1df3375e291a40f451e7ae"
+    },
+    {
+      "path": "tables/V92_probability_reliability.csv",
+      "bytes": 3869,
+      "sha256": "962a818f71565d9878905c98f2a3cc20a9062723e22295a937e447b71c1b865b"
+    },
+    {
+      "path": "tables/V92_probability_sample_audit.csv",
+      "bytes": 752,
+      "sha256": "b02357c2d4ddd690f66a1b148ac11bb295782427e6148f7f0b90e6251aadd09d"
+    },
+    {
+      "path": "tables/V92_universe_outcome_audit.csv",
+      "bytes": 2330,
+      "sha256": "ed10f4d99eee3cf5b0f8998ff356fcc9ec786ccea5426de84e68db2c0e1a525e"
+    },
+    {
+      "path": "tables/VQ14_inference.csv",
+      "bytes": 69222,
+      "sha256": "95fae17a18110c761581b5a207264470246822f920f6440de39d1f39de8f4220"
+    },
+    {
+      "path": "tables/VQ14_metrics.csv",
+      "bytes": 23337,
+      "sha256": "aa8c47e376b8d6b505281fff39b708e5b2f579e5959ecf0b01eb9e8a36fd7000"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 11983,
+      "sha256": "a6e5911608e5bb9d67fb2e37a3cacf40dd9d3310ba7ca84012d3e3e1465e8c29"
+    },
+    {
+      "path": "VISTA-Q-Bao-cao-ket-qua.html",
+      "bytes": 2512331,
+      "sha256": "720fc834c5fec46a711b174ba0f31d143a75ab1b7048685862ead814eed24777"
+    },
+    {
+      "path": "website-preview.jpg",
+      "bytes": 81986,
+      "sha256": "b4b82426eb979f059fb410511317be617a3be5d8fc203117e0390a36998e3626"
+    }
+  ]
+}
